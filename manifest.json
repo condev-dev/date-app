@@ -1,0 +1,27 @@
+{
+  "name": "date app",
+  "short_name": "date-app",
+  "description": "یه دعوت کوچولو و شیک برای قرار، با یه سوال ساده شروع میشه",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff9fb",
+  "theme_color": "#ff6fa0",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
